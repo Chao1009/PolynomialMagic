@@ -28,3 +28,5 @@ radius.
 
 As shown in the notebook, if one then fits the renormalized data with the high order polynomial
 it makes a beautiful fit of all 1000 points.
+
+<img src="https://github.com/dhiginbotham/PolynomialMagic/blob/master/Figures/Refit.png>
