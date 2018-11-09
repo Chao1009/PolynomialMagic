@@ -1,8 +1,10 @@
 # Polynomial Magic
 
-## Showing how to get whatever radius you like from a single set of pseudo data. 
+## Showing how to get whatever radius you like from a single set of charge form factor pseudo data. 
 
-Testing whether from a single randomly generated set of data one can always find the proton radius you want if you look hard enough.
+Testing whether from a single randomly generated set of data one can always find the proton radius you want if you scan with
+high order polynomials.  The radius is determined by taking the slope of the function at zero as it done with charge form
+factor data.
 
 code outline
 
