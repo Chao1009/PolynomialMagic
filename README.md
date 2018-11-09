@@ -17,3 +17,5 @@ code outline
 bonus code
 
 * float the normalizing of the "rejected" low q2 data and then show all the data now gives a great fit
+
+![TEst](https://github.com/dhiginbotham/PolynomialMagic/blob/master/Figures/PolynomialMagic.pdf)
