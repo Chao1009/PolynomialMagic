@@ -18,4 +18,13 @@ bonus code
 
 * float the normalizing of the "rejected" low q2 data and then show all the data now gives a great fit
 
+## Example Out
+
+For the example figure, data is generated with standard dipole (0.81fm radius) and then a 0.90fm 
+radius is requested.   Using a high order polynomial and a floating normalization gives the requested
+radius.
+
 <img src="https://github.com/dhiginbotham/PolynomialMagic/blob/master/Figures/PolynomialMagic.png">
+
+As shown in the notebook, if one then fits the renormalized data with the high order polynomial
+it makes a beautiful fit of all 1000 points.
