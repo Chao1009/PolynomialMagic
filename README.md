@@ -30,3 +30,7 @@ As shown in the notebook, if one then fits the renormalized data with the high o
 it makes a beautiful fit of all 1000 points.
 
 <img src="https://github.com/dhiginbotham/PolynomialMagic/blob/master/Figures/Refit.png">
+
+
+
+[![DOI](https://zenodo.org/badge/156786080.svg)](https://zenodo.org/badge/latestdoi/156786080)
